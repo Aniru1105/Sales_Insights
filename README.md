@@ -62,7 +62,7 @@ After completing the transformation, I created a dashboard to present the insigh
 3. **Dashboard in Excel Format**:  
    - [Sales Insights Dashboard - Excel](https://github.com/Aniru1105/MY_-projects/blob/PROJECT-1/Sales_Insights.xlsx)
 #### Data Transformation Gallery :
-   here you can see pictures and snippets of dashboards . 
+   here you can see pictures and snippets of dashboards .[Dashboard Snippet](https://github.com/Aniru1105/Sales_Insights/blob/main/Screenshot%202025-03-05%20235411.png).
 -- -
 Thank you for exploring the **Atliq Sales Insights** project! Please reach out if you have any questions or suggestions.
 
